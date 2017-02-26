@@ -1,5 +1,4 @@
 # ESFiddle
-===
 The official logos and design material for [esfiddle.net](https://esfiddle.net).
 
 ### License
